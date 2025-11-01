@@ -28,10 +28,9 @@ Mon intérêt pour l’innovation, la veille technologique et le management
 - video_tutoriel_CV-Interactif-PowerBi.mp4 : Tutoriel oral de la création d'un CV interactif avec PowerBI ( en ligne )
 
 📌 Livrables organisationnels
-cahier_des_charges_fonctionnel.pdf : Traduction structuré du projet Portfolio
-diagramme_gantt.pdf : Planification du projet portfolio sur 70 heures
-mockup_portfolio.png : Schéma de structure du site portfolio
+- cahier_des_charges_fonctionnel.pdf : Traduction structuré du projet Portfolio
+- diagramme_gantt.pdf : Planification du projet portfolio sur 70 heures
+- mockup_portfolio.png : Schéma de structure du site portfolio
 
 
-🌐 Lien vers le portfolio en ligne
-Mon portfolio est accessible en ligne : (https://www.datascienceportfol.io/quynhleson)
+🌐 Lien vers le portfolio en ligne: (https://www.datascienceportfol.io/quynhleson)
