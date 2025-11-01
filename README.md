@@ -6,10 +6,10 @@ Bienvenue sur ce dépôt GitHub contenant l’ensemble des livrables réalisés 
 🎯 Objectif
 Répondre à la demande formulée par Aéroworld dans leur cahier des charges recrutement, en présentant un portfolio professionnel, réflexif et visuel démontrant :
 
-Mes compétences métier en analyse et gestion de données
-Ma posture de consultant capable de challenger les besoins
-Mes capacités à organiser, documenter, vulgariser et accompagner un projet data
-Mon intérêt pour l’innovation, la veille technologique et le management
+- Mes compétences métier en analyse et gestion de données
+- Ma posture de consultant capable de challenger les besoins
+- Mes capacités à organiser, documenter, vulgariser et accompagner un projet data
+- Mon intérêt pour l’innovation, la veille technologique et le management
 
 
 🧩 Livrables inclus dans ce dépôt
