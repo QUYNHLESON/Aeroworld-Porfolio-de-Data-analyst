@@ -14,23 +14,23 @@ Répondre à la demande formulée par Aéroworld dans leur cahier des charges re
 
 🧩 Livrables inclus dans ce dépôt
 🧠 Analyse et stucturation du projet
-- analyse_du_besoin_client.pdf : Synthèse des enjeux data d’Aéroworld et de leurs attentes
-- mind_map_candidature.pdf : Mindmap de la candidature Aéroworld et de la gestion des livrables
+- 01_Analyse des besoins métiers.docx : Synthèse des enjeux data d’Aéroworld et de leurs attentes
+- 02_mind_map_candidature.pdf : Mindmap de la candidature Aéroworld et de la gestion des livrables
 
 📊 Tableaux de bord
-- mockup_tableau_profil.png : Maquette du tableau de présentation de profil
-- dashboard_profil.pbix et dashboard_profil.pdf : Tableau de présentation des compétences ( en ligne )
-- mockup_tableau_de_veille.png : Maquette du tableau de veille métier/technologique
-- dashboard_veille.pbix et dashboard_veille.pdf : Tableau de bord interactif de veille ( en ligne )
+- 03_mockup_tableau_profile.pdf : Maquette du tableau de présentation de profil
+- 05_mockup_table_au_veille.pdf : Maquette du tableau de veille métier/technologique
+- PBI_CV : Tableau de présentation des compétences
+- PBI_veille : Tableau de bord interactif de veille 
 
 📽️ Formation & documentation
-- Tutoriel_CV-Interactif-PowerBi.pdf : Document d’accompagnement expliquant la création d'un CV intercatif avec PowerBi
-- video_tutoriel_CV-Interactif-PowerBi.mp4 : Tutoriel oral de la création d'un CV interactif avec PowerBI ( en ligne )
+- 08_Guide de création de graphiques avec PBI.docx : Document d’accompagnement expliquant la création d'un CV intercatif avec PowerBi
+- 09_PBI formation video.webm : Tutoriel oral de la création d'un CV interactif avec PowerBI 
 
 📌 Livrables organisationnels
-- cahier_des_charges_fonctionnel.pdf : Traduction structuré du projet Portfolio
-- diagramme_gantt.pdf : Planification du projet portfolio sur 70 heures
-- mockup_portfolio.png : Schéma de structure du site portfolio
+- 07_Cahier des charges fonctionnel.pdf : Traduction structuré du projet Portfolio
+- 06_Diagramme de Gantt.png : Planification du projet portfolio sur 70 heures
+- 04_mockup_porfolio.pdf  : Schéma de structure du site portfolio
 
 
 🌐 Lien vers le portfolio en ligne: (https://www.datascienceportfol.io/quynhleson)
